@@ -1,6 +1,6 @@
 ### Software Engineer, Student @ASU
 
-![SahithyaCherukuri](https://github-readme-stats.vercel.app/api?username=SahithyaCherukuri&show_icons=true&theme=radical) 
+![SahithyaCherukuri](https://github-readme-stats.vercel.app/api?username=0xmuralik&show_icons=true&theme=radical) 
 
 <!--
 **SahithyaCherukuri/SahithyaCherukuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
