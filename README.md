@@ -1,5 +1,5 @@
-### Data Scientist @ Access Holdings 
-## Software Engineer, Data Scientist, Alumni @ASU, Ex-NCR
+## Data Scientist @ Access Holdings 
+### Software Engineer, Data Scientist, Alumni @ASU, Ex-NCR
 
 <!--
 **SahithyaCherukuri/SahithyaCherukuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
