@@ -1,4 +1,4 @@
-## Data Scientist @ Access Holdings 
+## Data Science Intern @ Access Holdings 
 ### Software Engineer, Data Scientist, Alumni @ASU, Ex-NCR
 
 <!--
