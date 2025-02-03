@@ -1,5 +1,5 @@
-## Data Science Intern @ Access Holdings 
-### Software Engineer, Data Scientist, Alumni @ASU, Ex-NCR
+## Engineer 2 @ AMEX 
+### Software Engineer, Data Scientist, Alumni @ASU, Ex-NCR, Ex-Access Holdings
 
 <!--
 **SahithyaCherukuri/SahithyaCherukuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
